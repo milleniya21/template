@@ -1,4 +1,38 @@
+body {
+    margin:0;
+    border: 1px solid black;
+    background-size: cover;
+}
 .main {
     display:flex;
     margin: 0 auto;
+    justify-content: center;
+    
 }
+.hero{
+    margin-top:100px;
+    padding-right: 50px;
+}
+
+.title{
+   padding-bottom: 20px;
+    line-height: 3pt;
+    
+}
+.para{
+    
+    color: gray;
+    line-height: 5pt;
+}
+
+.btn {
+    margin-top:10px;
+    padding: 15px;
+    background-color: orangered;
+    color: white;
+    border:none;
+
+}
+
+    
+    

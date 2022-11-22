@@ -1,38 +1,31 @@
 body {
-    margin:0;
-    border: 1px solid black;
-    background-size: cover;
+    margin:0 ; 
 }
 .main {
     display:flex;
-    margin: 0 auto;
-    justify-content: center;
-    
-}
-.hero{
-    margin-top:100px;
-    padding-right: 50px;
-}
+    margin: 0 auto ;  
 
-.title{
+}
+.hero{ 
+   width: 100%; 
+   padding-left: 180px;
+   padding-top: 100px;
+   
+    }
+
+.title{   
    padding-bottom: 20px;
-    line-height: 3pt;
-    
+    line-height: 5pt;   
 }
 .para{
     
     color: gray;
     line-height: 5pt;
 }
-
 .btn {
-    margin-top:10px;
+    margin-top:15px;
     padding: 15px;
     background-color: orangered;
     color: white;
     border:none;
-
 }
-
-    
-    
